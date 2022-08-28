@@ -1,0 +1,15 @@
+{
+    "name": "pyxel",
+    "displayName": "Pyxel",
+    "description": "Pyxel extension created by backwardspy",
+    "version": "1.0",
+    "author": { "name": "backwardspy", "url": "https://github.com/backwardspy" },
+    "categories": [
+        "Palettes"
+    ],
+    "contributes": {
+        "palettes": [
+            { "id": "Pyxel", "path": "./pyxel-palette.gpl" }
+        ]
+    }
+}
